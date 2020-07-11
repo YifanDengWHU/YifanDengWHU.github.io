@@ -6,7 +6,7 @@ excerpt: 'This paper proposed a deep learning framework that combines different 
 date: 2020/5/14
 venue: 'Bioinformatics'
 paperurl: 'https://academic.oup.com/bioinformatics/article-abstract/doi/10.1093/bioinformatics/btaa501/5837109'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+
 ---
 
 <a href='https://academic.oup.com/bioinformatics/article-abstract/doi/10.1093/bioinformatics/btaa501/5837109'>Download paper here</a>
