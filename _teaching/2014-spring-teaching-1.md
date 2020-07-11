@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "iOS development"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/iOS development
+venue: "Wuhan University, Training and Innovation Center"
+date: 2019-07-01
+location: "Wuhan, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This course is set as public optional. Everybody from the university can choose this course. It aims to raise the students' passion for iOS development.
