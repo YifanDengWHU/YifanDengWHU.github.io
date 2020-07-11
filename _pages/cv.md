@@ -18,8 +18,8 @@ Research experience
 * Feb. 2020 - Present: Research Assistant
   * Wuhan University
   * Work: 
-   - Construct Knowledg Graph and learn the biological entities' embedding from KG.
-   - Improved the deep learning model's performance on rare events through Few Shot Learning.
+    Construct Knowledg Graph and learn the biological entities' embedding from KG.
+    Improved the deep learning model's performance on rare events through Few Shot Learning.
   * Supervisor: Professor Zhang
 
 
@@ -42,7 +42,7 @@ Honors and awards
 * Scholarship:
   Second Class Sholarship(Top 10% in undergraduate of Wuhan University) Sept. 2019
   Huang Zhangren Scholarship (Top 3\% in undergraduate) Dec. 2018
-  First Class Sholarship(Top 5\% in undergraduate) Sept. 2018
+  First Class Sholarship(Top 5% in undergraduate) Sept. 2018
 * Award:
   Silver Medal in China Collegiate Programming Contest (Hubei Area) May. 2018
 
