@@ -15,19 +15,15 @@ Education
 
 Research experience
 ======
-* Feb. 2020 - Present: Research Assistant
+* Predicting biological interaction with Few Shot Learning and Knowledge Graph Embedding. Feb. 2020 - Present: Research Assistant
   * Wuhan University
-  * Work: 
-    Construct Knowledg Graph and learn the biological entities' embedding from KG.
-    Improved the deep learning model's performance on rare events through Few Shot Learning.
+  * Work: 1.Construct Knowledg Graph and learn the biological entities' embedding from KG. 2.Improved the deep learning model's performance on rare events through Few Shot Learning.
   * Supervisor: Professor Zhang
 
 
-* Apr. 2019 - Nov. 2019: Research Assistant
+* Predicting drug-drug interactions(DDIS) with multimodal deep learning Apr. 2019 - Nov. 2019: Research Assistant
   * Wuhan University
-  * Work: 
-   - Collected data from website like Drugbank to create a dataset and stored it in SQL database
-   - Improved the AUPR from 0.8732 to 0.9208 with multimodal learning
+  * Work: 1.Collected data from website like Drugbank to create a dataset and stored it in SQL database 2.Improved the AUPR from 0.8732 to 0.9208 with multimodal learning
   * Supervisor: Professor Zhang
 
 Skills
