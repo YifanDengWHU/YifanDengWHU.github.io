@@ -6,7 +6,7 @@ excerpt: 'This paper proposed a deep learning framework that combines different 
 date: 2020/5/14
 venue: 'Bioinformatics'
 paperurl: 'https://academic.oup.com/bioinformatics/article-abstract/doi/10.1093/bioinformatics/btaa501/5837109'
-
+citation: 'Deng Y, Xu X, Qiu Y, et al. A multimodal deep learning framework for predicting drug-drug interaction events[J]. Bioinformatics, 2020.'
 ---
 
 <a href='https://academic.oup.com/bioinformatics/article-abstract/doi/10.1093/bioinformatics/btaa501/5837109'>Download paper here</a>
