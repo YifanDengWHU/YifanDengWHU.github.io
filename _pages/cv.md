@@ -11,30 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Electronic Engineering, Wuhan University, 2021 (expected)
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Feb. 2020 - Present: Research Assistant
+  * Wuhan University
+  * Work: 
+   - Construct Knowledg Graph and learn the biological entities' embedding from KG.
+   - Improved the deep learning model's performance on rare events through Few Shot Learning.
+  * Supervisor: Professor Zhang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+
+* Apr. 2019 - Nov. 2019: Research Assistant
+  * Wuhan University
+  * Work: 
+   - Collected data from website like Drugbank to create a dataset and stored it in SQL database
+   - Improved the AUPR from 0.8732 to 0.9208 with multimodal learning
+  * Supervisor: Professor Zhang
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming languagues:
+ Proficient in Python, can also code in C++, JAVA and MATLAB. 
+* Framework:
+ Proficient in Pytorch, Keras, scikit-learn, also learn some beautifulsoup.
+
+Honors and awards
+======
+* Scholarship:
+  Second Class Sholarship(Top 10% in undergraduate of Wuhan University) Sept. 2019
+  Huang Zhangren Scholarship (Top 3\% in undergraduate) Dec. 2018
+  First Class Sholarship(Top 5\% in undergraduate) Sept. 2018
+* Award:
+  Silver Medal in China Collegiate Programming Contest (Hubei Area) May. 2018
 
 Publications
 ======
@@ -56,4 +66,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* President, WHU iOS Club, Wuhan University
+* Vice president of Students’ Union, Wuhan Univerisity, Electronic Information School,Grade 2017
