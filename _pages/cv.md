@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{% include base_path %} A PDF version can be found [here.](files/CV_Yifan_Deng.pdf)
 
 Education
 ======
@@ -17,9 +17,7 @@ Research experience
 ======
 * Predicting biological interaction with Few Shot Learning and Knowledge Graph Embedding. Feb. 2020 - Present: Research Assistant
   * Wuhan University
-  * Work: 
-   - 1.Construct Knowledg Graph and learn the biological entities' embedding from KG. 
-   - 2.Improved the deep learning model's performance on rare events through Few Shot Learning.
+  * Work: 1.Construct Knowledg Graph and learn the biological entities' embedding from KG. 2.Improved the deep learning model's performance on rare events through Few Shot Learning.
   * Supervisor: Professor Zhang
 
 
@@ -39,7 +37,7 @@ Honors and awards
 ======
 * Scholarship:
   Second Class Sholarship(Top 10% in undergraduate of Wuhan University) Sept. 2019
-  Huang Zhangren Scholarship (Top 3\% in undergraduate) Dec. 2018
+  Huang Zhangren Scholarship (Top 3% in undergraduate) Dec. 2018
   First Class Sholarship(Top 5% in undergraduate) Sept. 2018
 * Award:
   Silver Medal in China Collegiate Programming Contest (Hubei Area) May. 2018
@@ -50,11 +48,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
