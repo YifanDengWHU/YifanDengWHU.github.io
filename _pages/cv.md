@@ -17,7 +17,9 @@ Research experience
 ======
 * Predicting biological interaction with Few Shot Learning and Knowledge Graph Embedding. Feb. 2020 - Present: Research Assistant
   * Wuhan University
-  * Work: 1.Construct Knowledg Graph and learn the biological entities' embedding from KG. 2.Improved the deep learning model's performance on rare events through Few Shot Learning.
+  * Work: 
+  1.Construct Knowledg Graph and learn the biological entities' embedding from KG. 
+  2.Improved the deep learning model's performance on rare events through Few Shot Learning.
   * Supervisor: Professor Zhang
 
 
