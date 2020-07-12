@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %} A PDF version can be found [here.](files/CV_Yifan_Deng.pdf)
+{% include base_path %} A PDF version can be found [here.](https://yifandengwhu.github.io/files/CV_Yifan_Deng.pdf)
 
 Education
 ======
