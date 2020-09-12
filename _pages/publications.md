@@ -9,6 +9,8 @@ A multimodal deep learning framework for predicting drug-drug interaction events
 
 Enhancing drug-drug interaction prediction using deep attention neural networks<br/>Under revision for a resubmission to *IEEE/ACM Transactions on Computational Biology and Bioinformatics*
 
+A Comprehensive Review of Computational Methods for Drug-drug Interaction Detection <br/>Under review  Submitted to *IEEE/ACM Transactions on Computational Biology and Bioinformatics*
+
 MKPOCR: A Multi-Kernal Embedding Clustering Method for Detection of Cell Types from scRNA-seq Data<br/>Zeming Liu, Feng Liu, Wen Zhang, Wenyi Chen, **Yifan Deng**, Yuan Xie, and Yunfei Lizhao<br/>Recommended by *IEEE BIBM 2019* and was submitted to *BMC Genomics* 
 
 
