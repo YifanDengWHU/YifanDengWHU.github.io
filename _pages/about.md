@@ -19,6 +19,7 @@ Why 2024 Fall? Because the **GREAT PRESIDENT TRUMP** has ruined my plan that I h
 
 
 # What's new?
+- [12/2020] I transferred to [computational biology group](https://www.microsoft.com/en-us/research/group/computational-biology-group/) and continue my Bioinformatics research in MSRA!
 - [12/2020] I received Liu Daoyu's scholarship, (36 out of all undergraduate) which is a scholarship sponsored by former WHU president Daoyu Liu.
 - [09/2020] I started working as a Research Intern in Microsoft Research Asia.
 - [05/2020] One paper accepted by Bioinformatics.
