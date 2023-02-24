@@ -54,7 +54,7 @@ Publications
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
@@ -63,4 +63,4 @@ Teaching
 Service and leadership
 ======
 * President, WHU iOS Club, Wuhan University
-* Vice president of Students’ Union, Wuhan Univerisity, Electronic Information School,Grade 2017 -->
+* Vice president of Students’ Union, Wuhan Univerisity, Electronic Information School,Grade 2017 --> -->
