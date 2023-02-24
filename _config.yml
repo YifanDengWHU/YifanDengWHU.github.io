@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yifan Deng"
   avatar           : "photo.jpg"
-  bio              : "Devoted to data mining and Bioinformatics."
-  location         : "Wuhan, China"
+  bio              : "Devoted to machine learning and its application to biology"
+  location         : "Madison, United States"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=mYJFowIAAAAJ&hl=zh-CN"
-  email            : "dyfmail@whu.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=mYJFowIAAAAJ"
+  email            : "yifand@cs.wisc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
