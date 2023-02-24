@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %} A PDF version can be found [here.](https://yifandengwhu.github.io/files/CV_Yifan_Deng.pdf)
 
-Education
+<!-- Education
 ======
 * B.E. in Electronic Engineering, Wuhan University, 2021 (expected)
 
@@ -63,4 +63,4 @@ Teaching
 Service and leadership
 ======
 * President, WHU iOS Club, Wuhan University
-* Vice president of Students’ Union, Wuhan Univerisity, Electronic Information School,Grade 2017
+* Vice president of Students’ Union, Wuhan Univerisity, Electronic Information School,Grade 2017 -->
