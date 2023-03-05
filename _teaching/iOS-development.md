@@ -2,7 +2,7 @@
 title: "TA for iOS development"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/iOS-development
+#permalink: /teaching/iOS-development
 venue: "Wuhan University, Training and Innovation Center"
 date: 2019-07-01
 location: "Wuhan, China"
