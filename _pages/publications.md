@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Structure-informed Language Models Are Protein Designers<br/> Zaixiang Zheng\*, **Yifan Deng\***, Dongyu Xue, Yi Zhou, Fei Ye, Quanquan Gu <br/> BioRxiv [[URL]](https://www.biorxiv.org/content/10.1101/2023.02.03.526917v2.abstract)
+Structure-informed Language Models Are Protein Designers<br/> Zaixiang Zheng\*, **Yifan Deng\***, Dongyu Xue, Yi Zhou, Fei Ye, Quanquan Gu <br/> Proc. of the 40 th International Conference on Machine Learning (ICML), Hawaii, USA, 2023 [[URL]](https://www.biorxiv.org/content/10.1101/2023.02.03.526917v2.abstract)
 
 Improved drug–target interaction prediction with intermolecular graph transformer<br/> Siyuan Liu, Yusong Wang, **Yifan Deng**, Liang He, Bin Shao, Jian Yin, Nanning Zheng, Tie-Yan Liu, Tong Wang <br/> Briefings in Bioinformatics br/> [[code]](https://github.com/microsoft/Drug-Interaction-Research/tree/IGT-for-Structure-Based-DTI-Prediction) [[URL]](https://academic.oup.com/bib/article-abstract/23/5/bbac162/6581433)
 

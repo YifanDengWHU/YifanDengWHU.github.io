@@ -17,7 +17,8 @@ My research interests mainly focus on Machine Learning and its application in bi
 
 
 # What's new?
-- [02/2023] Our [protein design paper](https://www.biorxiv.org/content/10.1101/2023.02.03.526917v2.abstract) is available on bioRxiv now.
+- [04/2023] LM-Design is accepted as an oral paper by ICML 2023!
+- [02/2023] Our [protein design paper LM-Design](https://www.biorxiv.org/content/10.1101/2023.02.03.526917v2.abstract) is available on bioRxiv now.
 - [03/2022] I started working as a research intern in ByteDance AI Lab.
 - [11/2021] One paper accepted by Briefings in Bioinformatics.
 - [05/2020] Our [review](https://doi.org/10.1109/TCBB.2021.3081268) of drug-drug interaction is published on TCBB.
